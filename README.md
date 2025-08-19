@@ -68,3 +68,14 @@
 
 </body>
 </html>
+glasup-website/
+│
+├─ index.html        (Home / Voorpagina)
+├─ producten.html    (Producten)
+├─ over.html         (Over ons)
+├─ contact.html      (Contact)
+├─ css/
+│   └─ style.css     (optionele eigen styling)
+└─ images/
+      └─ hier je afbeeldingen
+      
